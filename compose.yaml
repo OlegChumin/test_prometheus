@@ -1,1 +1,8 @@
+version: '3.8'
+
+# Пока пусто, позже добавим сюда app, prometheus, grafana, elasticsearch и т.д.
 services:
+  placeholder:
+    image: busybox
+    command: echo "placeholder"
+

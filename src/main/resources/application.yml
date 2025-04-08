@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: test_prometheus
+  docker:
+    compose:
+      enabled: false
